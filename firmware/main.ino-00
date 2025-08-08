@@ -1,4 +1,4 @@
-// main.ino
+// main.ino-00
 // ESP32-based Soil Sensor (NPK + Moisture + Temp + Optional LoRa)
 
 #include <HardwareSerial.h>
@@ -78,4 +78,5 @@ void loop() {
   }
 
   delay(5000);
+
 } 
